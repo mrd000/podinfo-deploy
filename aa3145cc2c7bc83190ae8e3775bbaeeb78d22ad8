@@ -1,0 +1,1 @@
+{"jobID":"4419411e-6e94-0db4-695f-303fa20fccc8","spec":{"type":"policy","cause":{"Message":"","User":"Pavel Merdin \u003cpavel.merdin@vdms.io\u003e"},"spec":{"dev:deployment/metrics-demo":{"add":{"automated":"true"},"remove":null}}},"result":null}
